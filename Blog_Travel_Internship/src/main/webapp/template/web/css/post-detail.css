@@ -1,0 +1,14 @@
+.btn-dark {
+	color: #fff;
+	background-color: #000;
+	border-color: #000;
+}
+
+.btn-submit-comment {
+	padding: 5px;
+}
+
+.form-control {
+	width: 100%;
+	height: calc(1.5em + .75rem + 2px);
+}

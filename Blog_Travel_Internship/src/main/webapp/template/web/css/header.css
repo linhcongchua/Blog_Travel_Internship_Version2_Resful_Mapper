@@ -1,0 +1,72 @@
+#header {
+	
+}
+
+.white-color {
+	color: white;
+}
+
+.header-upper {
+	background-color: black;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+table {
+	width: 100%;
+	margin: 0 auto;
+}
+
+table th {
+	justify-content: center;
+}
+
+.col-4 {
+	width: 33.33%;
+	float: left;
+}
+
+.header-middle {
+	text-align: center;
+	background-color: #ffffff;
+	width: 33%;
+	margin: 0 auto;
+}
+
+.poetry {
+	color: #434950;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.menu {
+	background-color: #f8f9fa;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+.active {
+	color: #ebaa3d !important;
+}
+
+.menu-item {
+	color: black;
+	font-size: x-large;
+}
+
+ul li {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+.menu-list {
+	display: flex;
+	width: 30%;
+	margin: 0 auto;
+}
+
+.highlight-post {
+	background-color: #f8f9fa;
+}
